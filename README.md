@@ -70,3 +70,4 @@ This repository is intended for:
 who wish to understand the "conceptual meaning architecture" of SMI-O Edition 1.0.
 
 All content is provided for conceptual evaluation and alignment only.
+
